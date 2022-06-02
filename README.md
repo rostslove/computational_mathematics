@@ -5,3 +5,6 @@ Implementation of the Gauss-Seidel method for solving a system of linear algebra
 
 ## Lab 2
 Implementation of the half division method and the simple iteration method for solving a nonlinear equation, Newton's method for solving a system of nonlinear equations
+
+## Lab 3
+Implementation of methods for finding the approximate value of a certain integral with the required accuracy by various numerical methods.

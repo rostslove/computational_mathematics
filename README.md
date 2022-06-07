@@ -8,3 +8,6 @@ Implementation of the half division method and the simple iteration method for s
 
 ## Lab 3
 Implementation of methods for finding the approximate value of a certain integral with the required accuracy by various numerical methods.
+
+## Lab 4
+Implementation of the least squares approximation of a function by linear, quadratic, cubic, exponential, logarithmic and power approximation functions

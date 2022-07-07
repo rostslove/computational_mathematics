@@ -11,3 +11,6 @@ Implementation of methods for finding the approximate value of a certain integra
 
 ## Lab 4
 Implementation of the least squares approximation of a function by linear, quadratic, cubic, exponential, logarithmic and power approximation functions
+
+## Lab 5
+Implementations of Lagrange and Newton methods for function interpolation
